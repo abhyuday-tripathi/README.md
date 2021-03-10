@@ -1,5 +1,7 @@
-# README.md
+# JavaScript Example
 
-```md 
-  # MD
+```javascript 
+  const App = data => {
+    console.log(data)
+  }
 ```
